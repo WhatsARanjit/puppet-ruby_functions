@@ -1,0 +1,4 @@
+---
+fixtures:
+  symlinks:
+    ruby_functions: "#{source_dir}"
